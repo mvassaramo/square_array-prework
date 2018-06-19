@@ -1,10 +1,12 @@
 def square_array(array)
 
-i = 0 
-while i < array.length 
-array.each do
-  
+new_array = [ ]
 
+array.each { |i| new_array << i ** 2}
+
+new_array
+
+end
 
 
 end
