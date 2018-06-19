@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  
+math.exp()
+
+
 end
